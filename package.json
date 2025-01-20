@@ -1,0 +1,23 @@
+{
+  "name": "broadaut",
+  "version": "1.0.0",
+  "description": "Automation for Broadvoice",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseDiogoCorreia/Broadaut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JoseDiogoCorreia/Broadaut/issues"
+  },
+  "homepage": "https://github.com/JoseDiogoCorreia/Broadaut#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.7"
+  }
+}
