@@ -31,7 +31,7 @@ module.exports = defineConfig({
     trace: 'on-first-retry',
     
     /* Run tests in headed mode */
-    headless: true,
+    headless: false,
   },
 
   /* Configure projects for major browsers */
